@@ -277,5 +277,24 @@ else:
     MemConfig.config_mem(options, system)
     config_filesystem(system, options)
 
+for i in xrange(np):
+    if not options.ruby:
+        system.cpu[i].icache.assoc            = 2
+        system.cpu[i].icache.response_latency = 1
+        system.cpu[i].icache.size             = '32kB'
+        system.cpu[i].icache.mshrs            = 4
+
+        system.cpu[i].dcache.assoc            = 4
+        system.cpu[i].dcache.size             = '32kB'
+        system.cpu[i].dcache.mshrs            = 4#32
+
+#L2 Cache Parameters
+if options.l2cache and not options.ruby:
+    system.l2.assoc                  = 8
+    system.l2.response_latency       = 2
+    system.l2.size                   = '512kB'
+    system.l2.prefetcher               = StridePrefetcher()
+    system.l2.prefetch_on_access     = True 
+
 root = Root(full_system = False, system = system)
 Simulation.run(options, root, system, FutureClass)

@@ -1,0 +1,6 @@
+[submodule "splatt"]
+	path = splatt
+	url = https://github.com/nitish2112/splatt.git
+[submodule "spxcel-mttkrp-data"]
+	path = spxcel-mttkrp-data
+	url = https://github.com/nitish2112/spxcel-mttkrp-data.git

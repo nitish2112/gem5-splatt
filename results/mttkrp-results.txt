@@ -1,0 +1,149 @@
+======================================
+nell-2
+======================================
+
+*************** Mode 0 ******************
+Bin: 0
+system.cpu.numCycles                          5815953                       # number of cpu cycles simulated
+Bin: 1
+system.cpu.numCycles                          8928939                       # number of cpu cycles simulated
+Bin: 2
+system.cpu.numCycles                         13494712                       # number of cpu cycles simulated
+Bin: 3
+system.cpu.numCycles                         17725449                       # number of cpu cycles simulated
+Bin: 4
+system.cpu.numCycles                         21984952                       # number of cpu cycles simulated
+
+*************** Mode 1 ******************
+Bin: 0
+system.cpu.numCycles                          5438937                       # number of cpu cycles simulated
+Bin: 1
+system.cpu.numCycles                          7978690                       # number of cpu cycles simulated
+Bin: 2
+system.cpu.numCycles                         12282701                       # number of cpu cycles simulated
+Bin: 3
+system.cpu.numCycles                         16596787                       # number of cpu cycles simulated
+Bin: 4
+system.cpu.numCycles                         18535222                       # number of cpu cycles simulated
+
+*************** Mode 2 ******************
+Bin: 0
+system.cpu.numCycles                          4089958                       # number of cpu cycles simulated
+Bin: 1
+system.cpu.numCycles                          6660101                       # number of cpu cycles simulated
+Bin: 2
+system.cpu.numCycles                         11215006                       # number of cpu cycles simulated
+Bin: 3
+system.cpu.numCycles                         12709496                       # number of cpu cycles simulated
+Bin: 4
+system.cpu.numCycles                         18742721                       # number of cpu cycles simulated
+
+======================================
+netflix
+======================================
+
+*************** Mode 0 ******************
+Bin: 0
+system.cpu.numCycles                          3068583                       # number of cpu cycles simulated
+Bin: 1
+system.cpu.numCycles                          3532622                       # number of cpu cycles simulated
+Bin: 2
+system.cpu.numCycles                          4516309                       # number of cpu cycles simulated
+Bin: 3
+system.cpu.numCycles                          5497954                       # number of cpu cycles simulated
+Bin: 4
+system.cpu.numCycles                          6546790                       # number of cpu cycles simulated
+
+*************** Mode 1 ******************
+Bin: 0
+system.cpu.numCycles                          1973148                       # number of cpu cycles simulated
+Bin: 1
+system.cpu.numCycles                          2491603                       # number of cpu cycles simulated
+Bin: 2
+system.cpu.numCycles                          2977116                       # number of cpu cycles simulated
+Bin: 3
+system.cpu.numCycles                          4139763                       # number of cpu cycles simulated
+Bin: 4
+system.cpu.numCycles                          4737566                       # number of cpu cycles simulated
+
+*************** Mode 2 ******************
+Bin: 0
+system.cpu.numCycles                          2406470                       # number of cpu cycles simulated
+Bin: 1
+system.cpu.numCycles                          2948134                       # number of cpu cycles simulated
+Bin: 2
+system.cpu.numCycles                          3839870                       # number of cpu cycles simulated
+Bin: 3
+system.cpu.numCycles                          4805935                       # number of cpu cycles simulated
+Bin: 4
+system.cpu.numCycles                          5678428                       # number of cpu cycles simulated
+
+======================================
+poisson3D
+======================================
+
+*************** Mode 0 ******************
+Bin: 0
+system.cpu.numCycles                        486630636                       # number of cpu cycles simulated
+Bin: 1
+system.cpu.numCycles                        623422803                       # number of cpu cycles simulated
+Bin: 2
+Seg Fault
+Bin: 3
+system.cpu.numCycles                        899796656                       # number of cpu cycles simulated
+Bin: 4
+system.cpu.numCycles                       1028158683                       # number of cpu cycles simulated
+
+*************** Mode 1 ******************
+Bin: 0
+Bin: 1
+Bin: 2
+Bin: 3
+Bin: 4
+
+*************** Mode 2 ******************
+Bin: 0
+Bin: 1
+Bin: 2
+Bin: 3
+Bin: 4
+
+======================================
+ml20m
+======================================
+
+*************** Mode 0 ******************
+Bin: 0
+system.cpu.numCycles                          6025596                       # number of cpu cycles simulated
+Bin: 1
+system.cpu.numCycles                          8478059                       # number of cpu cycles simulated
+Bin: 2
+system.cpu.numCycles                         10951982                       # number of cpu cycles simulated
+Bin: 3
+system.cpu.numCycles                         13314053                       # number of cpu cycles simulated
+Bin: 4
+system.cpu.numCycles                         16291118                       # number of cpu cycles simulated
+
+*************** Mode 1 ******************
+Bin: 0
+system.cpu.numCycles                          1827431                       # number of cpu cycles simulated
+Bin: 1
+system.cpu.numCycles                          6319655                       # number of cpu cycles simulated
+Bin: 2
+system.cpu.numCycles                          7860456                       # number of cpu cycles simulated
+Bin: 3
+system.cpu.numCycles                         10234758                       # number of cpu cycles simulated
+Bin: 4
+system.cpu.numCycles                         11179240                       # number of cpu cycles simulated
+
+*************** Mode 2 ******************
+Bin: 0
+system.cpu.numCycles                          2928477                       # number of cpu cycles simulated
+Bin: 1
+system.cpu.numCycles                          4343373                       # number of cpu cycles simulated
+Bin: 2
+system.cpu.numCycles                          5581435                       # number of cpu cycles simulated
+Bin: 3
+system.cpu.numCycles                          7166576                       # number of cpu cycles simulated
+Bin: 4
+system.cpu.numCycles                          8902926                       # number of cpu cycles simulated
